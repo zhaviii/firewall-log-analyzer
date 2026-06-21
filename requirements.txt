@@ -1,2 +1,6 @@
+# For analyzer_v3.py (HTML report version) — no external dependencies needed
+# Standard library only: re, os, sys, platform, datetime, collections
+
+# For report_generator.py (Excel version) — optional
 pandas>=2.0.0
 openpyxl>=3.1.0
